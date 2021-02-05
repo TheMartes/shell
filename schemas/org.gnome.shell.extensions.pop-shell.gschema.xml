@@ -71,7 +71,7 @@
 
         <!-- Launcher -->
         <key type="as" name="activate-launcher">
-            <default><![CDATA[['<Super>slash']]]></default>
+            <default><![CDATA[['<Primary>Space']]]></default>
             <summary>Search key combo</summary>
         </key>
 
